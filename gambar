@@ -1,1 +1,75 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"FAN",
+      "main_ads_banner": "	ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"549167759165615_549192715829786",
+      "backup_ads_intertitial":"549167759165615_549190905829967",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"asuransi",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
 
+    }
+  ],
+  "Categories":
+  [
+   {
+    "category":"Adventure"
+  },{
+    "category":"Minigame"
+  },{
+    "category":"Survival"
+  },{
+    "category":"Puzzle"
+  },{
+    "category":"Creation"
+  },{
+    "category":"RedStone"
+  }
+  ],
+  "Maps":
+  [
+      {
+      "id":1,
+      "name":"GTA Addon Minecraft",
+      "category":"Adventure",
+      "image":"https://i.ytimg.com/vi/JS2AM5DMgVY/maxresdefault.jpg",
+      "download":"https://archive.org/download/gta-minecraft-1642530483437_202312/GTA%20Minecraft_1642530483437.mcaddon",
+      "description":"<div>\r\n<p>Are you a fan of the GTA Franchise? Then this Addon is for you. This Addon brings you some characters and features from the GTA universe.Note: If you want to use my addon for your YouTube video please make sure to credit me and don't give any direct media fire link. Just provide the MCPEDL link.If you want to create a map you can ask permission from me.&nbsp;Also if you want to commission an Addon you can ask me on my YouTube channel for it.<\/p>\r\n<\/div>\r\n<div>\r\n<figure>\r\n<div><iframe src=\"https:\/\/youtube.com\/embed\/\/Ovr0nfg2Cw8\" width=\"640\" height=\"360\" frameborder=\"0\"><\/iframe><\/div>\r\n<\/figure>\r\n<p>This Addon is a mixture of all the GTA games.<\/p>\r\n<\/div>"
+    },
+    {
+      "id":1,
+      "name":"Star Wars Imperial Rain (Open World)",
+      "category":"Adventure",
+      "image":"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg",
+      "download":"https://aliendro.id/uploads/demo/worldmap/wars.mcworld",
+      "description":"<p style=\"text-align: justify;\"><strong>Is this multiplayer compatible?</strong>&nbsp;</p>\n<p style=\"text-align: justify;\">No, this map is intended for single-player play. If you try this with other people game-breaking bugs or soft locks may appear. If you want to play Imperial Rain with friends there's information on it in the spawn hub.</p>\n<p style=\"text-align: justify;\"><strong>How do I play or process?</strong></p>\n<p style=\"text-align: justify;\">You first spawn in a hub, it has information on how to play and what to do.</p>\n<p style=\"text-align: justify;\">To process the story you go to the white beacon and talk to the NPC to begin the mission.</p>\n<p style=\"text-align: justify;\"><strong>The Story</strong></p>\n<p style=\"text-align: justify;\">The game takes place in the year 3 ABY or during The Empire Strikes Back! You play as Miller Clark, he's freshly out of the Empire after being conscripted. This is one of the first open-world maps on Minecraft Bedrock to have a protagonist. This map also features voice acting and cutscenes! Miller Clark is looking for a new line of work and not interested in the traditional ways of work. Rinson, an old friend of Miller is eagerly waiting for him to come back so they can start their \"work\". See Star Wars never seen before in this Open World game where you take in the eyes of Miller and his criminal experience across the galaxy! It takes on a more mature style on Star Wars!</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 319px; height: 156px;\" src=\"https://api.mcpedl.com/storage/submissions/96216/images/star-wars-imperial-rain-open-world-story-sandbox_2.jpeg\" /></figure>\n<p style=\"text-align: justify;\"><strong>The Maps</strong></p>\n<p style=\"text-align: justify;\">There are three open planets seen in the films!</p>\n<p style=\"text-align: justify;\">Coruscant</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 320px; height: 180px;\" src=\"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_3.jpeg\" /></figure>\n<p style=\"text-align: justify;\">Tatooine</p>\n<p style=\"text-align: justify;\">Bespin</p>\n<p style=\"text-align: justify;\">They also have iconic locations seen in the films!</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 322px; height: 181px;\" src=\"https://api.mcpedl.com/storage/submissions/95069/images/star-wars-imperial-rain-open-world-story-sandbox_7.jpeg\" /></figure>\n<p style=\"text-align: justify;\"><strong>Content</strong></p>\n<p style=\"text-align: justify;\">There are many blasters you can purchase in-game that are seen in the films. There is food that <a href=\"https://canbabieseat.com/\">you can eat</a> that is seen in films and unique enemies! You can freely roam the planets.</p>\n<figure class=\"image\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 320px; height: 182px;\" src=\"https://api.mcpedl.com/storage/submissions/96216/images/star-wars-imperial-rain-open-world-story-sandbox_4.jpeg\" /></figure>\n<p style=\"text-align: justify;\">&nbsp;</p>"
+    },{
+    "id":2,
+    "name":"Temple Speedrunning Practice",
+    "category":"Minigame",
+    "image":"file:///android_asset/ml.jpeg",
+    "download":"https://aliendro.id/uploads/demo/worldmap/TemplePractice.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Have you ever tried speedrunning minecraft for yourself and find it difficult? Well, this map helps you in one aspect of speedrunning if you can find it. You can train how to loot the desert temple in many different ways.&nbsp;</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 344px; height: 155px;\" src=\"https://api.mcpedl.com/storage/submissions/96028/images/temple-speedrunning-practice_3.jpeg\" /></figure>\n<p style=\"text-align: justify;\">Spawning inside the world, you are outside a desert temple floating in the middle of nowhere to clear players off distractions. The temple is almost accurately recreated to look like a real one, outside it you will find two buttons. One button resets the map if you ever mess up and want to start over again. You have the choice to loot the temple with nothing at all since it is very much possible, but if you want to have the ideal tools you want for a speedrun, press the other button.</p>\n<p><img class=\"lazyLoad isLoaded\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://api.mcpedl.com/storage/submissions/96028/images/temple-speedrunning-practice_5.jpeg\" width=\"331\" height=\"149\" /></p>\n</div>\n</div>"
+  },{
+    "id":3,
+    "name":"Fantasy Bedwars",
+    "category":"Survival",
+    "image":"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_5.jpeg",
+    "download":"https://aliendro.id/uploads/demo/worldmap/Bedwars.mcworld",
+    "description":"<div>\n<p style=\"text-align: justify;\">Welcome to Bedwars! You can play with up to 16 players on the exciting Fantasy map! Main goal of Bedwars is to destroy other teams' beds and eliminate them. You also have to collect loot from generators to protect your bed and buy gear. If your bed gets destroyed, you will no longer respawn. This map is an extension to PortalMG and Void Games Realms.</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">&nbsp;</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\"><img class=\"lazyLoad isLoaded\" style=\"width: 339px; height: 212px;\" src=\"https://api.mcpedl.com/storage/submissions/96001/images/bedwars_2.png\" /></figure>\n<p style=\"text-align: justify;\">This is the map you will be playing on. Tip: Study the map closely. You will be able to get to other team's islands and generators much faster.</p>\n</div>\n</div>"
+  }
+  ]
+}
